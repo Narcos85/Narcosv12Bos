@@ -1,2 +1,3 @@
 # Narcosv12Bos
-Bu Bot NarcosCode Sunucusuna Yapılmıştır. Çalınması Satılması Yasaktır. Madem Alacaksınız Sorun Öyle Alın.  Discord: discord.gg/codes
+Bu Bot NarcosCode Sunucusuna Yapılmıştır. Çalınması Satılması Yasaktır.Madem Alacaksınız Sorun Öyle Alın.  
+Discord: discord.gg/codes
