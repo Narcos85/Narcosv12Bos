@@ -1,0 +1,17 @@
+{
+  "name": "narcosv12bos",
+  "version": "0.0.1",
+  "description": "narcos_code_bos_bot",
+  "main": "narcos.js",
+  "scripts": {
+    "test": "node narcos.js"
+  },
+  "author": "narcos",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
